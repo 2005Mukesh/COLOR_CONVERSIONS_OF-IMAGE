@@ -53,8 +53,6 @@ o	Save the final modified image to your local directory.
 
 
 ##### Program:
-### Developed By: Shehan Shajahan
-### Register Number: 212223240154
 
 
 ## Output:
